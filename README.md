@@ -1,2 +1,4 @@
-# X402-Launch-Drift-Narrative-The-MCP-Illusion-How-Coinbase-Reframed-X402-to-Simulate-Prior-Art
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+X402-Launch-Drift-Narrative-The-MCP-Illusion-How-Coinbase-Reframed-X402-to-Simulate-Prior-Art
 This contradiction card documents Coinbase’s orchestration inflation via HTTP status code rebranding, wallet-based identity simulation, and semantic laundering. It proves that X402, L402, MCP, and EVMAUTH are post-filing simulation artifacts—not prior art.
